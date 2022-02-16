@@ -1,0 +1,19 @@
+dates_visited: 
+   - 2022-02-01
+   - 2022-02-02
+   - 2022-02-03
+user_id: 
+  - 3e76dc11-776a-47f9-bd24-6f77d0eab797
+basket: 
+        price: 
+          - 100
+          - 200
+          - 300
+        id: 
+         - 3540fe91-6a03-4334-b83c-6466201fd31b
+         - 40decb17-0bf5-477b-a945-9529cef6cb63
+         - b489e01e-d08a-4226-ab02-0e26bf9d307f
+        name:
+          - product_a
+          - priduct_b
+          - product_c
